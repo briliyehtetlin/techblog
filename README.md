@@ -1,2 +1,2 @@
-# yehtetlin.github.io
+# techblog
 The github pages on exploring challenging technologies
